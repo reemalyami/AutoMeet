@@ -1,11 +1,6 @@
-# AutoMeet
+# AutoMeet - Proposal
 
-في هذا الملف يوجد بعض الأكواد البرمجية المستخدمة لبناء الحل 
-حيث ان الحل ينقسم إلى قسمين 
-القسم الأول استخراج البيانات عن طريق استخدام API. 
 
-القسم الثاني يركز على استخدام الذكاء الاصطناعي في استخراج الوقت من الفيديو عن طريق استخدام 
-OCR Model (Optical Character Recognition)
-لتعرف على وقت الفيديو المتزامن مع وقت المبارة حيث ان وقت الأحداث المستخرجة من البيانات لا يتطابق مع وقت الفيديو 
-وأيضاً استتخدام نماذج الذكاء الاصطناعي 
-لمعرفة وفت اختفاء المؤقت والذي يتزامن مع الأحداث المهمة كالهجمات الضائعة والتي لا تذكر في البيانات المستخرجة من محركات البحث
+This folder provides the files related to the previous submission, which is the proposal phase. 
+
+The solution developed from the initial idea includes two parts: the metadata and the AI parts. The metadata is extracted using an API, and the AI part focuses on extracting time from the videos using the OCR Model (Optical Character Recognition). To know the time in the video synchronized with the time of the match, as the time of the events extracted from the data does not match the time of the video. Also, the timer disappearance coincides with significant events such as missed attacks, which are not mentioned in the data extracted from search engines.
