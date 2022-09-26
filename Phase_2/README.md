@@ -1,3 +1,3 @@
-The files in this directory are related to the 2nd phase submission. 
+# AutoMeet - Implementation Phase
 
-1. Data_Preprocessing_and_Preparation.ipynb contains the process that are followed to prepare the dataset for the clock classification model
+The files in this directory provides the technical side of the implementation phase. The implementation includes two parts: dataset processing and video editing. The dataset was annotated manually to prepare the dataset for the clock classification model
